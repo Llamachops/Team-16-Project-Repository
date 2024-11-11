@@ -1,4 +1,7 @@
-# Software Engineering II (COMP3613) Assignment 1
+# COMP3607 Team 16 Group Project Repository
+### __Project Description:__
+* Repository for Team 16's COMP3607 Group Project.
+
 ### __Group Information:__
 * __Group Name:__ Team 16
 * __Group Members:__ Rian Ramdin, Kyle Mc Intosh, Riyaz Hosein, Javonte Baldeo, Teal Trim
